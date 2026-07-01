@@ -1,0 +1,2 @@
+Model,Accuracy mean,Accuracy SD,Accuracy CI95,Balanced Accuracy mean,Balanced Accuracy SD,Balanced Accuracy CI95,Macro-F1 mean,Macro-F1 SD,Macro-F1 CI95
+"Stacking (Proposed), multi-seed",0.9129,0.0347,"[0.8726, 0.9645]",0.8989,0.0645,"[0.8234, 0.9790]",0.8914,0.0565,"[0.8312, 0.9760]"
