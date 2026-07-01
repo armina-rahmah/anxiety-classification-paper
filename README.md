@@ -17,7 +17,7 @@ is never used as a predictive feature.
 | `HARS_pipeline_release.ipynb` | End-to-end pipeline: data loading, label construction, feature design, model comparison, stacking, ablation, robustness, cross-validation, and figures. |
 | `generate_synthetic_data.py` | Generates a synthetic dataset with the same schema and class structure. |
 | `Anxiety_Synthetic.xlsx` | A ready-to-use synthetic dataset (14 ordinal items, five severity classes). |
-| `README.md` | This file. |
+| `Results/` | Precomputed result tables (CSV) and figures from a full run. |
 
 ## Data availability
 
