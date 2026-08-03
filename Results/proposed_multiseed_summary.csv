@@ -1,0 +1,2 @@
+Evaluation Protocol,Model,Accuracy mean,Accuracy SD,Accuracy empirical 2.5th-97.5th percentile interval,Balanced Accuracy mean,Balanced Accuracy SD,Balanced Accuracy empirical 2.5th-97.5th percentile interval,Macro-F1 mean,Macro-F1 SD,Macro-F1 empirical 2.5th-97.5th percentile interval
+Five independent stratified 80/20 train-test splits,Stacking (Proposed),0.9484,0.0373,"[0.9048, 0.9984]",0.9387,0.0495,"[0.8778, 0.9992]",0.9361,0.0488,"[0.8869, 0.9991]"

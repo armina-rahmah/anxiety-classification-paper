@@ -1,0 +1,51 @@
+Model,Severity Level,Recall
+Random Forest,No Anxiety,0.8333333333333334
+Random Forest,Mild Anxiety,0.8888888888888888
+Random Forest,Moderate Anxiety,0.7777777777777778
+Random Forest,Severe Anxiety,0.84
+Random Forest,Very Severe Anxiety,1.0
+SVM (RBF),No Anxiety,1.0
+SVM (RBF),Mild Anxiety,0.8888888888888888
+SVM (RBF),Moderate Anxiety,0.7777777777777778
+SVM (RBF),Severe Anxiety,0.96
+SVM (RBF),Very Severe Anxiety,1.0
+HistGradientBoosting,No Anxiety,0.8333333333333334
+HistGradientBoosting,Mild Anxiety,0.7777777777777778
+HistGradientBoosting,Moderate Anxiety,0.7222222222222222
+HistGradientBoosting,Severe Anxiety,0.92
+HistGradientBoosting,Very Severe Anxiety,1.0
+XGBoost,No Anxiety,0.8333333333333334
+XGBoost,Mild Anxiety,0.8888888888888888
+XGBoost,Moderate Anxiety,0.7777777777777778
+XGBoost,Severe Anxiety,0.88
+XGBoost,Very Severe Anxiety,1.0
+LSTM,No Anxiety,1.0
+LSTM,Mild Anxiety,0.8888888888888888
+LSTM,Moderate Anxiety,1.0
+LSTM,Severe Anxiety,0.92
+LSTM,Very Severe Anxiety,1.0
+Ordinal LR (raw items),No Anxiety,1.0
+Ordinal LR (raw items),Mild Anxiety,0.8888888888888888
+Ordinal LR (raw items),Moderate Anxiety,0.8333333333333334
+Ordinal LR (raw items),Severe Anxiety,0.92
+Ordinal LR (raw items),Very Severe Anxiety,1.0
+Calibrated LightGBM,No Anxiety,0.6666666666666666
+Calibrated LightGBM,Mild Anxiety,0.8888888888888888
+Calibrated LightGBM,Moderate Anxiety,0.6666666666666666
+Calibrated LightGBM,Severe Anxiety,0.96
+Calibrated LightGBM,Very Severe Anxiety,1.0
+Monotonic GBM (raw items),No Anxiety,0.8333333333333334
+Monotonic GBM (raw items),Mild Anxiety,0.7777777777777778
+Monotonic GBM (raw items),Moderate Anxiety,0.6666666666666666
+Monotonic GBM (raw items),Severe Anxiety,0.72
+Monotonic GBM (raw items),Very Severe Anxiety,1.0
+CatBoost,No Anxiety,0.8333333333333334
+CatBoost,Mild Anxiety,0.8888888888888888
+CatBoost,Moderate Anxiety,0.7777777777777778
+CatBoost,Severe Anxiety,0.92
+CatBoost,Very Severe Anxiety,1.0
+Stacking (Proposed),No Anxiety,1.0
+Stacking (Proposed),Mild Anxiety,1.0
+Stacking (Proposed),Moderate Anxiety,0.8888888888888888
+Stacking (Proposed),Severe Anxiety,1.0
+Stacking (Proposed),Very Severe Anxiety,1.0
